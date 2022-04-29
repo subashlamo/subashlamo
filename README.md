@@ -15,6 +15,28 @@
 <div align="center">
   <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" alt="Hello">
 </div>
+<br>
+<br>
+
+---
+
+
+### About me:
+- They call me Shini. Its a pleasure to meet you.
+- I am an abnormal species.
+- I like to dabble in every little things and maybe destroy it as a consequence. 😄
+
+---
+
+### 🛠️Some tools I dabble in 😄:
 <div>
-  They call me Shini. Its a pleasure to meet you.
- </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"    alt="html5" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"      alt="css3" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="python" width="40" height="40">
+</div>
+
+---
+
+### My moronic stats T_T
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shinig0d&theme=dark&background=000000)](https://git.io/streak-stats)
