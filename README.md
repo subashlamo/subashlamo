@@ -1,4 +1,4 @@
 ### Hi Im Shini
 <div>
-  <img src="Shinig0d/Shini/img/Die.jpg">
+  <img src="https://github.com/Shinig0d/Shini/blob/main/img/Die.png">
  </div>
