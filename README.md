@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://github.com/Shinig0d/Shini/blob/main/img/Die.png" width="100"/>
   <!--
   <div id="badges">
@@ -14,6 +14,9 @@
   </div>
   -->
 </div>
+-->
+
+
 <div align="center">
   <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" alt="Hello">
 </div>
