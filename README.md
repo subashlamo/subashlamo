@@ -22,9 +22,8 @@
 
 
 ### About me:
-- They call me Shini. Its a pleasure to meet you.
-- I am an abnormal species.
-- I like to dabble in every little things and maybe destroy it as a consequence. 😄
+- I am Pranil. Its a pleasure to meet you.
+- I like to dabble in every little things and maybe destroy it as a consequence.
 
 ---
 
@@ -33,9 +32,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"    alt="html5" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"      alt="css3" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
 </div>
 
 ---
+
 
 ### My moronic stats T_T
 
