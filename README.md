@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif](https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" alt="Hello">
+  <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" alt="Hello">
 </div>
 <br>
 <br>
